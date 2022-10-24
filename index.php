@@ -4,7 +4,7 @@
  */
 require_once './vendor/autoload.php';
 
-use AsiaEast\Test\Test;
+use Test\Test\Test;
 
 $Test = new Test();
 

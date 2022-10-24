@@ -5,8 +5,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Twjohnwu\\AsiaEast\\": "src/",
-	        "Test\\Test\\": "src/Test/Test"
+	        "DC\\Batman\\": "src/DC/Batman",
+	        "DC\\Superman\\": "src/DC/Superman"
         }
     },
     "authors": [
