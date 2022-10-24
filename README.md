@@ -1,5 +1,5 @@
 # my-composer-plugin
 Hello world
 
-composer require twjohnwu/my-composer-plugin
+`$ composer require twjohnwu/asia-east`
 
