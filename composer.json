@@ -1,0 +1,22 @@
+{
+    "name": "twjohnwu/asia-east",
+    "description": "my first composer package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Twjohnwu\\AsiaEast\\": "src/",
+	        "AsiaEast\\Test\\": "src/AsiaEast/Test"
+        }
+    },
+    "authors": [
+        {
+            "name": "tw.johnwu",
+            "email": "tw.johnwu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	    "php": ">=7.0"	
+    }
+}
