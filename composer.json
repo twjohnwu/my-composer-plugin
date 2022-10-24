@@ -6,7 +6,7 @@
     "autoload": {
         "psr-4": {
             "Twjohnwu\\AsiaEast\\": "src/",
-	        "AsiaEast\\Test\\": "src/AsiaEast/Test"
+	        "AsiaEast\\Test\\": "src/Test"
         }
     },
     "authors": [
