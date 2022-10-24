@@ -4,8 +4,12 @@
  */
 require_once './vendor/autoload.php';
 
-use Test\Test\Test;
+use DC\Batman\Batman;
+use DC\Superman\Superman;
 
-$Test = new Test();
+$Batman = new Batman();
+$Superman = new Superman();
 
-echo $Test->desc();
+echo $Batman->desc();
+echo "\n";
+echo $Superman->desc();
